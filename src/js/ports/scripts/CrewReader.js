@@ -128,6 +128,13 @@ export default class CrewReader
 			'STOrM RIDErS CLANSMAN': 'Storm Riders Clansman',
 			'LAZINg LANTErN CLANSMA': 'Blazing Lantern Clansman',
 			'TrADEr': 'Trader',
+			'PArTY ANIMAL': 'Party Animal',
+			'PEArL DIVEr': 'Pearl Diver',
+			' SEA-FOrT GUArD': 'Sea-fort Guard',
+			'JUDgE OF DICE': 'Judge of Dice',
+			'TErrACOTTA MErCHANT': 'Terracotta Merchant',
+			' GU BODYG ;': 'Gu Bodyguard',
+			'STArG': 'Stargazer',
 		};
 
 		let attempts = [];
