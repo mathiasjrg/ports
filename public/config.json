@@ -1,7 +1,7 @@
 {
     "appName": "Ports Calculator",
     "description": "Voyage calculator for POP",
-    "appUrl": "/",
+    "appUrl": "/index.html",
     "configUrl": "config.json",
     "defaultWidth": 800,
     "defaultHeight": 1200,
